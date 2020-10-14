@@ -1,4 +1,7 @@
 # 1-AirBnB-Analysis
+Link to notebooks:
+- Notebooks can be reviewed on [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/scottabarnes/airBnB-analysis/tree/master/)
+
 Overview & objectives:
 - This project was focused on performing exploratory data analysis looking at the impact of the global pandemic on AirBnB listings in London 
 - The project looked at data relating to 1) listing pricing, 2) property availability and 3) stay offerings and observed changes before, during and after the lockdown months in an attempt to understand the impact of the pandemic
