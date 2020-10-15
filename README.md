@@ -37,6 +37,3 @@ Libraries used:
     - Numpy and Pandas for data wrangling 
     - Matplotlib and Plotly for data visualisation 
     - os for directory management 
-    
-Acknowledgements:
-- This analysis was inspired by a number of media articles and studies looking at the impact of the global pandemic on the travel and tourism industry
