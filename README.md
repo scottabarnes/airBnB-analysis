@@ -1,5 +1,4 @@
 # 1-AirBnB-Analysis
-Overview of work:
 ![](AirBnB.gif)
 
 Link to notebooks:
