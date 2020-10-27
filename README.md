@@ -1,4 +1,6 @@
 # 1-AirBnB-Analysis
+![](AirBnB.gif)
+
 Link to notebooks:
 - Notebooks can be reviewed on [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/scottabarnes/airBnB-analysis/tree/main/nbs/)
 
